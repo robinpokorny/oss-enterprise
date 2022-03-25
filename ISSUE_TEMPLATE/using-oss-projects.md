@@ -10,6 +10,6 @@ I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This
    - Project shows regular activity
    - Bugs reported in issues are addressed promptly
 
-## Internal Process
+## Internal Processasfd
 
 - [ ] Notify the xyz team that you intend to use this project
