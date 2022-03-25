@@ -15,7 +15,7 @@ A great maintainer:
 - Helps new contributors find meaningful, helpful contributions
 - Responds to and supports users reporting bugs or making contributions
    - Identifies who will address bugs
-   - Updates the project to the latest versions of dependencies like Ruby or Java?
+   - Updates the project to the latest versions of dependencies like Ruadsfasdfby or Java?
 - Speaks with respect and consideration
    - A good maintainer treats users and contributors fairly, kindly, and with respect.
    - They show appreciation for contributions and are compassionate when offering feedback.
