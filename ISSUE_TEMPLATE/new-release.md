@@ -1,4 +1,4 @@
-Title: Release *****/REPO
+Title: Release TEST/REPO
 
 I'm going to share [REPO name](REPO link) with the world, but before I do, I want to make sure:
 
