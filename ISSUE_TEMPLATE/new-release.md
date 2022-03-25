@@ -6,7 +6,7 @@ I'm going to share [REPO name](REPO link) with the world, but before I do, I wan
 
 - [ ] The repo is visible to the teams below
 - [ ] Discuss licensing or other legal concerns with `legal team @mention`
-- [ ] Evaluate security concerns with `security team @mention`
+- [ ] Evaluate security concerns with `security team @mention`cc
 - [ ] Request a snazzy logo  from `creative team  @mention`
 - [ ] Discuss promotion strategy with `public relations team @mention` and `marketing @mention`
 
